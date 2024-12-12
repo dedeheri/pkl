@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://pkl-y7f4-2lf28f0cc-dedeheris-projects.vercel.app/",
+        "APP_URL": "https://pkl-y7f4.vercel.app/",
         "APP_KEY": "base64:2PwXAgPLRp3VUKMOUJm8sOSJ1PdEnTPnAPShk/m8ktk=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
